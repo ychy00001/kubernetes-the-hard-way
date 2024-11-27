@@ -1,0 +1,5 @@
+
+# Kubernetes The Hard Way
+192.168.156.10 master1.kubernetes.local master1
+192.168.156.11 node1.kubernetes.local node1
+192.168.156.12 node2.kubernetes.local node2

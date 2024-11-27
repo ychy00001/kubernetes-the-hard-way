@@ -1,0 +1,1 @@
+https://storage.googleapis.com/kubernetes-release/release/v1.28.3/bin/darwin/arm64/kubectl
