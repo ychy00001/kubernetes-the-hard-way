@@ -51,3 +51,11 @@ service-account-csr.json
 .idea/
 downloads/*
 downloads_darwin/*
+*.csr
+*.key
+*.crt
+10-bridge.conf
+node1.kubeconfig
+node2.kubeconfig
+kubelet-config.yaml
+ca.srl
